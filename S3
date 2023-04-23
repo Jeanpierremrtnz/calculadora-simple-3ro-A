@@ -1,0 +1,15 @@
+ class simple Calculator {
+  const calculator = new Calculator();
+ 
+  const operations
+  "+": sum,
+  "-": rest,
+  "*": multiply,
+  "/": divide,
+
+
+
+
+  calculator.evaluate();
+  
+   history: history[]; 
